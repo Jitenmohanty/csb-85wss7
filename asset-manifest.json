@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jitenmohanty.github.io/csb-85wss7/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://jitenmohanty.github.io/csb-85wss7/static/js/main.485605f4.chunk.js",
+    "main.js.map": "https://jitenmohanty.github.io/csb-85wss7/static/js/main.485605f4.chunk.js.map",
+    "runtime-main.js": "https://jitenmohanty.github.io/csb-85wss7/static/js/runtime-main.47bf6bac.js",
+    "runtime-main.js.map": "https://jitenmohanty.github.io/csb-85wss7/static/js/runtime-main.47bf6bac.js.map",
+    "static/js/2.e48fa429.chunk.js": "https://jitenmohanty.github.io/csb-85wss7/static/js/2.e48fa429.chunk.js",
+    "static/js/2.e48fa429.chunk.js.map": "https://jitenmohanty.github.io/csb-85wss7/static/js/2.e48fa429.chunk.js.map",
+    "index.html": "https://jitenmohanty.github.io/csb-85wss7/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://jitenmohanty.github.io/csb-85wss7/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.e48fa429.chunk.js.LICENSE.txt": "https://jitenmohanty.github.io/csb-85wss7/static/js/2.e48fa429.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47bf6bac.js",
+    "static/js/2.e48fa429.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.485605f4.chunk.js"
+  ]
+}
